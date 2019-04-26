@@ -1,0 +1,3 @@
+/home/lrr/codes/c++/sortAlgorithm/basic_sort_algorithm/build/CMakeFiles/rebuild_cache.dir
+/home/lrr/codes/c++/sortAlgorithm/basic_sort_algorithm/build/CMakeFiles/edit_cache.dir
+/home/lrr/codes/c++/sortAlgorithm/basic_sort_algorithm/build/CMakeFiles/main.dir

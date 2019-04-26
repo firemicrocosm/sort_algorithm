@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lrr/codes/c++/sortAlgorithm/basic_sort_algorithm/bubble_sort.h
+iostream
+-
+
+/home/lrr/codes/c++/sortAlgorithm/basic_sort_algorithm/insert_sort.h
+
+/home/lrr/codes/c++/sortAlgorithm/basic_sort_algorithm/main.cpp
+iostream
+-
+ctime
+-
+cstdlib
+-
+bubble_sort.h
+/home/lrr/codes/c++/sortAlgorithm/basic_sort_algorithm/bubble_sort.h
+select_sort.h
+/home/lrr/codes/c++/sortAlgorithm/basic_sort_algorithm/select_sort.h
+insert_sort.h
+/home/lrr/codes/c++/sortAlgorithm/basic_sort_algorithm/insert_sort.h
+
+/home/lrr/codes/c++/sortAlgorithm/basic_sort_algorithm/select_sort.h
+
